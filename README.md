@@ -1,5 +1,6 @@
 # monerorequest-java
 ![Version 1.0](https://img.shields.io/badge/Version-1.0.0-orange.svg)
+
 monerorequest-java is an easy way to create/decode [Monero Payment Requests](https://github.com/lukeprofits/Monero_Payment_Request_Standard).
 
 # Documentation Coming Soon...
